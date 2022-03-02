@@ -1,6 +1,6 @@
 # functions-assignment
 assignment functions
-This is my Final Assignment Of 1st Semester of BS Computer Science.
+This is my Final Assignment Of 1st Semester of BS Computer Science.\n
 It contains four sections:
 | SECTION 1 | BASIC PROGRAMS |  7 Programs
 | SECTION 2 | ARRAYS |          9 Programs
